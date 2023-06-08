@@ -511,8 +511,183 @@
             "negative_aspekte": "Negative Aspekte des Vier der Münzen können Gier, Geiz oder das Festhalten an alten Mustern sein, die das Wachstum und die Entfaltung blockieren.",
             "archetyp": "Das Vier der Münzen verkörpert den Archetyp des Besitzers, der nach Sicherheit und Kontrolle strebt.",
             "farbe": "Die Farbe Grün ist mit dem Vier der Münzen assoziiert und steht für Wohlstand, Wachstum und Naturverbundenheit.",
-            "tier": ""
+            "tier": "",
+            "gruppe": "Münzen"
+          },
+          {
+            "name": "Fünf der Münzen",
+            "beschreibung": "Das Fünf der Münzen symbolisiert Mangel, Verlust und schwierige Zeiten. Es steht für finanzielle oder materielle Herausforderungen sowie Gefühle der Isolation und Ausgrenzung.",
+            "liebe": "In Beziehungen kann das Fünf der Münzen darauf hinweisen, dass es Unstimmigkeiten, Konflikte oder finanzielle Schwierigkeiten geben kann. Es ermutigt dazu, Unterstützung zu suchen und gemeinsam Lösungen zu finden, um die Beziehung zu stärken.",
+            "finanzen": "Im Bereich der Finanzen weist das Fünf der Münzen darauf hin, dass es finanzielle Unsicherheit oder Verluste geben kann. Es ermutigt dazu, sorgfältig mit den vorhandenen Ressourcen umzugehen und nach Möglichkeiten zur Verbesserung der finanziellen Situation zu suchen.",
+            "gesundheit": "Das Fünf der Münzen kann in Bezug auf die Gesundheit darauf hinweisen, dass es Herausforderungen oder Schwierigkeiten geben kann. Es ermutigt dazu, Unterstützung zu suchen, um den eigenen Gesundheitszustand zu verbessern, und sich nicht isoliert zu fühlen.",
+            "spiritualität": "Das Fünf der Münzen kann in Bezug auf Spiritualität bedeuten, dass man sich isoliert oder von der spirituellen Gemeinschaft ausgeschlossen fühlt. Es ermutigt dazu, nach innerem Trost und Unterstützung zu suchen und Verbindungen zu anderen spirituellen Suchenden herzustellen.",
+            "umgekehrte_bedeutung": "Wenn das Fünf der Münzen umgekehrt gezogen wird, kann dies auf eine Phase der Besserung oder der Überwindung von Schwierigkeiten hinweisen. Es kann darauf hindeuten, dass Unterstützung und Hilfe verfügbar sind, auch wenn sie möglicherweise nicht sofort erkennbar sind.",
+            "numerologie": 5,
+            "element": "Erde",
+            "astrologisches_zeichen": "Saturn",
+            "zeitliche_bedeutung": "Das Fünf der Münzen steht oft für eine schwierige Phase oder Herausforderung. Es kann darauf hinweisen, dass es Zeit braucht, um finanzielle oder materielle Probleme zu lösen und einen Weg aus schwierigen Situationen zu finden.",
+            "herausforderungen": "Eine Herausforderung des Fünf der Münzen besteht darin, mit Verlusten, Mangel oder finanziellen Schwierigkeiten umzugehen, ohne den Glauben an sich selbst und die Zukunft zu verlieren. Es erfordert Durchhaltevermögen und die Bereitschaft, Hilfe anzunehmen.",
+            "positive_aspekte": "Positive Aspekte des Fünf der Münzen sind die Möglichkeit zur Wachstums- und Lernphase, in der man lernt, mit Schwierigkeiten umzugehen und Ressourcen zu schätzen. Es eröffnet die Chance für Veränderungen und neue Perspektiven.",
+            "negative_aspekte": "Negative Aspekte des Fünf der Münzen sind Mangel, Verlust, finanzielle Schwierigkeiten und das Gefühl der Ausgrenzung oder Isolation.",
+            "gruppe": "Münzen"
+          },
+          {
+            "name": "Sechs der Münzen",
+            "beschreibung": "Das Sechs der Münzen symbolisiert Großzügigkeit, Geben und Nehmen sowie den Ausgleich von Ressourcen. Es steht für Wohlstand, Unterstützung und das Teilen des eigenen Reichtums mit anderen.",
+            "liebe": "In Beziehungen kann das Sechs der Münzen darauf hinweisen, dass Großzügigkeit und Geben eine wichtige Rolle spielen. Es ermutigt dazu, die Bedürfnisse des Partners zu erkennen und zu erfüllen, während man gleichzeitig die eigenen Bedürfnisse nicht vernachlässigt.",
+            "finanzen": "Im Bereich der Finanzen weist das Sechs der Münzen darauf hin, dass es eine Zeit des finanziellen Wohlstands und der Stabilität gibt. Es ermutigt dazu, den Reichtum zu teilen und anderen zu helfen, während man gleichzeitig seine eigenen Ressourcen klug verwaltet.",
+            "gesundheit": "Das Sechs der Münzen kann in Bezug auf die Gesundheit darauf hinweisen, dass es wichtig ist, eine ausgewogene Balance zwischen Geben und Nehmen zu finden. Es ermutigt dazu, sich selbst umsorgt zu fühlen und sich um die Gesundheit anderer zu kümmern.",
+            "spiritualität": "Das Sechs der Münzen kann in Bezug auf Spiritualität bedeuten, dass Großzügigkeit und Mitgefühl spirituelle Prinzipien sind. Es ermutigt dazu, die eigenen spirituellen Werte in die Tat umzusetzen und anderen auf ihrem spirituellen Weg zu unterstützen.",
+            "umgekehrte_bedeutung": "Wenn das Sechs der Münzen umgekehrt gezogen wird, kann dies auf ein Ungleichgewicht in Bezug auf Geben und Nehmen hinweisen. Es kann darauf hindeuten, dass es notwendig ist, die eigenen Grenzen zu setzen und sich selbst nicht zu vernachlässigen, während man anderen hilft.",
+            "numerologie": 6,
+            "element": "Erde",
+            "astrologisches_zeichen": "Jupiter",
+            "zeitliche_bedeutung": "Das Sechs der Münzen symbolisiert oft eine Phase des Wohlstands und des Gleichgewichts. Es kann darauf hinweisen, dass es an der Zeit ist, den eigenen Reichtum zu teilen und anderen zu helfen.",
+            "herausforderungen": "Eine Herausforderung des Sechs der Münzen besteht darin, das richtige Gleichgewicht zwischen Geben und Nehmen zu finden und die eigenen Bedürfnisse nicht zu vernachlässigen. Es erfordert auch die Fähigkeit, anderen auf eine unterstützende und gleichzeitig gesunde Weise zu helfen.",
+            "positive_aspekte": "Positive Aspekte des Sechs der Münzen sind Großzügigkeit, Wohlstand und die Fähigkeit, anderen zu helfen. Es bietet die Möglichkeit, Segen und Erfolg mit anderen zu teilen und eine positive Wirkung auf ihr Leben zu haben.",
+            "negative_aspekte": "Negative Aspekte des Sechs der Münzen können ein Ungleichgewicht in Bezug auf Geben und Nehmen, Ausbeutung oder Codependenz sein.",
+            "gruppe": "Münzen"
+          },
+          {
+            "name": "Sieben der Münzen",
+            "beschreibung": "Das Sieben der Münzen symbolisiert Geduld, Überprüfung und Ernte. Es steht für eine Phase des Wachstums, in der man die Früchte seiner Arbeit betrachtet und bewertet.",
+            "liebe": "In Beziehungen kann das Sieben der Münzen darauf hinweisen, dass es Zeit braucht, um die Beziehung zu überprüfen und zu bewerten. Es ermutigt dazu, geduldig zu sein und zu erkennen, dass gute Dinge Zeit brauchen, um zu reifen.",
+            "finanzen": "Im Bereich der Finanzen weist das Sieben der Münzen darauf hin, dass es eine Zeit des Überprüfens der finanziellen Situation und des Erntens der Früchte der Arbeit gibt. Es ermutigt dazu, geduldig zu sein und die richtigen Entscheidungen zu treffen, um langfristigen finanziellen Erfolg zu erreichen.",
+            "gesundheit": "Das Sieben der Münzen kann in Bezug auf die Gesundheit bedeuten, dass es wichtig ist, die eigenen Fortschritte zu überprüfen und Geduld zu haben. Es ermutigt dazu, die richtigen Schritte zu unternehmen, um die Gesundheit zu verbessern, und dabei realistische Erwartungen zu haben.",
+            "spiritualität": "Das Sieben der Münzen kann in Bezug auf Spiritualität darauf hinweisen, dass es eine Zeit des spirituellen Wachstums und der Überprüfung gibt. Es ermutigt dazu, die eigenen spirituellen Praktiken zu bewerten und zu überprüfen, um eine tiefere Verbindung und Erkenntnis zu erlangen.",
+            "umgekehrte_bedeutung": "Wenn das Sieben der Münzen umgekehrt gezogen wird, kann dies darauf hinweisen, dass es Schwierigkeiten gibt, Geduld zu haben und die Früchte der Arbeit zu sehen. Es kann darauf hindeuten, dass weitere Anstrengungen erforderlich sind, um den gewünschten Erfolg zu erzielen.",
+            "numerologie": 7,
+            "element": "Erde",
+            "astrologisches_zeichen": "Saturn",
+            "zeitliche_bedeutung": "Das Sieben der Münzen symbolisiert oft eine Phase des Wachstums und der Überprüfung. Es kann darauf hinweisen, dass es an der Zeit ist, die eigenen Fortschritte zu bewerten und die richtigen Entscheidungen für die Zukunft zu treffen.",
+            "herausforderungen": "Eine Herausforderung des Sieben der Münzen besteht darin, Geduld zu haben und die Früchte der Arbeit anzuerkennen, auch wenn sie noch nicht vollständig sichtbar sind. Es erfordert die Fähigkeit, die richtigen Entscheidungen zu treffen und langfristige Ziele im Auge zu behalten.",
+            "positive_aspekte": "Positive Aspekte des Sieben der Münzen sind das Ernten der Früchte der Arbeit, das Wachstum und die Fähigkeit, die eigenen Fortschritte zu bewerten. Es bietet die Möglichkeit, zu erkennen, wie weit man gekommen ist und weiterhin in die gewünschte Richtung zu arbeiten.",
+            "negative_aspekte": "Negative Aspekte des Sieben der Münzen können Ungeduld, Zweifel oder das Gefühl des Stillstands sein, wenn die gewünschten Ergebnisse nicht sofort sichtbar sind.",
+            "gruppe": "Münzen"
+          }, {
+            "name": "Acht der Münzen",
+            "beschreibung": "Das Acht der Münzen symbolisiert Fleiß, Lernen und Meisterschaft. Es steht für eine Zeit der harten Arbeit, des Engagements und der Fokussierung auf die Verbesserung der eigenen Fähigkeiten.",
+            "liebe": "In Beziehungen kann das Acht der Münzen darauf hinweisen, dass es wichtig ist, kontinuierlich an der Beziehung zu arbeiten und sich auf das gemeinsame Wachstum zu konzentrieren. Es ermutigt dazu, sich in der Partnerschaft weiterzuentwickeln und die eigenen Fähigkeiten der Liebe und Fürsorge zu verbessern.",
+            "finanzen": "Im Bereich der Finanzen weist das Acht der Münzen darauf hin, dass es notwendig ist, hart zu arbeiten und sich auf die Verbesserung der finanziellen Lage zu konzentrieren. Es ermutigt dazu, neue Fähigkeiten zu erlernen und die eigenen Ressourcen klug zu nutzen, um langfristigen finanziellen Erfolg zu erreichen.",
+            "gesundheit": "Das Acht der Münzen kann in Bezug auf die Gesundheit bedeuten, dass es wichtig ist, kontinuierlich an der eigenen Gesundheit zu arbeiten und sich auf das Lernen neuer Methoden oder Praktiken zu konzentrieren. Es ermutigt dazu, die eigenen Fähigkeiten zur Erhaltung der Gesundheit zu verbessern.",
+            "spiritualität": "Das Acht der Münzen kann in Bezug auf Spiritualität bedeuten, dass es wichtig ist, kontinuierlich an der eigenen spirituellen Entwicklung zu arbeiten und neue Wege des Wachstums zu erforschen. Es ermutigt dazu, sich auf das Lernen und die Meisterschaft spiritueller Praktiken zu konzentrieren.",
+            "umgekehrte_bedeutung": "Wenn das Acht der Münzen umgekehrt gezogen wird, kann dies darauf hinweisen, dass es Schwierigkeiten gibt, die nötige Arbeit oder Anstrengung aufzubringen, um die gewünschten Ergebnisse zu erzielen. Es kann darauf hindeuten, dass es notwendig ist, die eigene Motivation und Ausdauer zu stärken.",
+            "numerologie": 8,
+            "element": "Erde",
+            "astrologisches_zeichen": "Sonne",
+            "zeitliche_bedeutung": "Das Acht der Münzen symbolisiert oft eine Phase des Fleißes und des Engagements für die persönliche Entwicklung. Es kann darauf hinweisen, dass es an der Zeit ist, sich auf die Verbesserung der eigenen Fähigkeiten und Fertigkeiten zu konzentrieren.",
+            "herausforderungen": "Eine Herausforderung des Acht der Münzen besteht darin, kontinuierlich hart zu arbeiten und sich auf die Verbesserung der eigenen Fähigkeiten zu konzentrieren, auch wenn die Ergebnisse nicht sofort sichtbar sind. Es erfordert Ausdauer und die Bereitschaft, sich kontinuierlich weiterzuentwickeln.",
+            "positive_aspekte": "Positive Aspekte des Acht der Münzen sind das Streben nach Meisterschaft, die Möglichkeit zur persönlichen Entwicklung und das Erlernen neuer Fähigkeiten. Es bietet die Chance, durch harte Arbeit und Engagement langfristigen Erfolg zu erzielen.",
+            "negative_aspekte": "Negative Aspekte des Acht der Münzen können Überlastung, Perfektionismus oder das Gefühl der Stagnation sein, wenn man sich zu sehr auf die Arbeit konzentriert und das Gleichgewicht in anderen Lebensbereichen vernachlässigt.",
+            "gruppe": "Münzen"
+          }, 
+          {
+            "name": "Neun der Münzen",
+            "gruppe": "Münzen",
+            "beschreibung": "Das Neun der Münzen symbolisiert Unabhängigkeit, Selbstvertrauen und Erfüllung. Es steht für eine Zeit des Wohlstands, der Selbstständigkeit und des Genießens der Früchte der eigenen Arbeit.",
+            "liebe": "In Beziehungen kann das Neun der Münzen darauf hinweisen, dass man unabhängig und selbstständig ist. Es ermutigt dazu, die eigene Individualität zu pflegen und sich selbst zu lieben. Es kann auch bedeuten, dass man die Einsamkeit oder die Freiheit in einer Partnerschaft genießt.",
+            "finanzen": "Im Bereich der Finanzen weist das Neun der Münzen darauf hin, dass man finanzielle Unabhängigkeit und Wohlstand erreicht hat. Es ermutigt dazu, die eigenen Ressourcen klug zu nutzen und das Leben in vollen Zügen zu genießen.",
+            "gesundheit": "Das Neun der Münzen kann in Bezug auf die Gesundheit bedeuten, dass man auf einem guten Gesundheitsniveau ist und die Früchte der eigenen Anstrengungen in Bezug auf Gesundheit und Wohlbefinden genießen kann. Es ermutigt dazu, das Leben zu genießen und sich um das eigene Wohlbefinden zu kümmern.",
+            "spiritualität": "Das Neun der Münzen kann in Bezug auf Spiritualität darauf hinweisen, dass man eine tiefe spirituelle Erfüllung und Unabhängigkeit erreicht hat. Es ermutigt dazu, die eigene spirituelle Praxis zu pflegen und das spirituelle Wachstum zu genießen.",
+            "umgekehrte_bedeutung": "Wenn das Neun der Münzen umgekehrt gezogen wird, kann dies darauf hinweisen, dass es Schwierigkeiten gibt, die eigene Unabhängigkeit zu erreichen oder zu genießen. Es kann auf finanzielle Abhängigkeit, Unsicherheit oder das Fehlen von Selbstvertrauen hindeuten.",
+            "numerologie": 9,
+            "element": "Erde",
+            "astrologisches_zeichen": "Venus",
+            "zeitliche_bedeutung": "Das Neun der Münzen symbolisiert oft eine Phase des Wohlstands und der Erfüllung. Es kann darauf hinweisen, dass man die Früchte der eigenen Arbeit genießt und unabhängig von äußeren Einflüssen ist.",
+            "herausforderungen": "Eine Herausforderung des Neun der Münzen besteht darin, die eigene Unabhängigkeit zu wahren und das Gleichgewicht zwischen Selbstständigkeit und zwischenmenschlichen Beziehungen zu finden. Es erfordert auch die Fähigkeit, das Leben in vollen Zügen zu genießen, ohne sich von materiellen Besitztümern abhängig zu machen.",
+            "positive_aspekte": "Positive Aspekte des Neun der Münzen sind finanzielle Unabhängigkeit, Selbstvertrauen und die Fähigkeit, das Leben in vollen Zügen zu genießen. Es bietet die Chance, Erfüllung und Wohlstand in verschiedenen Lebensbereichen zu erfahren.",
+            "negative_aspekte": "Negative Aspekte des Neun der Münzen können Abhängigkeit von materiellen Besitztümern, Selbstbezogenheit oder das Fehlen von zwischenmenschlichen Beziehungen sein, wenn man zu sehr auf seine eigene Unabhängigkeit fokussiert ist."
+          }, {
+            "name": "Zehn der Münzen",
+            "gruppe": "Münzen",
+            "beschreibung": "Das Zehn der Münzen symbolisiert Wohlstand, Erfüllung und das Erreichen von langfristigem Erfolg. Es steht für eine Zeit des finanziellen Überflusses, der Stabilität und des harmonischen Familienlebens.",
+            "liebe": "In Beziehungen deutet das Zehn der Münzen auf eine stabile und glückliche Partnerschaft hin. Es symbolisiert das Erreichen von Sicherheit und Wohlstand als Paar. Es ermutigt dazu, das gemeinsame Leben zu genießen und auf lange Sicht zusammenzuhalten.",
+            "finanzen": "Im Bereich der Finanzen weist das Zehn der Münzen darauf hin, dass man finanzielle Sicherheit und Wohlstand erreicht hat. Es symbolisiert den Erfolg und die Belohnung für harte Arbeit und kluge finanzielle Entscheidungen. Es ermutigt dazu, den finanziellen Überfluss zu genießen und auch für die Zukunft vorzusorgen.",
+            "gesundheit": "Das Zehn der Münzen kann in Bezug auf die Gesundheit bedeuten, dass man ein hohes Maß an körperlichem Wohlbefinden und Vitalität erreicht hat. Es symbolisiert die Belohnung für eine gesunde Lebensweise und ermutigt dazu, die Gesundheit zu pflegen und zu erhalten.",
+            "spiritualität": "Das Zehn der Münzen kann in Bezug auf Spiritualität darauf hinweisen, dass man ein tieferes Verständnis und eine tiefere Verbundenheit mit der spirituellen Welt erreicht hat. Es symbolisiert spirituelle Erfüllung und ermutigt dazu, das spirituelle Wachstum weiter voranzutreiben.",
+            "umgekehrte_bedeutung": "Wenn das Zehn der Münzen umgekehrt gezogen wird, kann dies darauf hinweisen, dass es Schwierigkeiten gibt, den finanziellen Wohlstand oder die familiäre Harmonie aufrechtzuerhalten. Es kann auf finanzielle Verluste, Streitigkeiten oder Instabilität im familiären Umfeld hindeuten.",
+            "numerologie": 10,
+            "element": "Erde",
+            "astrologisches_zeichen": "Merkur",
+            "zeitliche_bedeutung": "Das Zehn der Münzen symbolisiert oft eine Phase des finanziellen Erfolgs und der Stabilität. Es kann darauf hinweisen, dass man die Früchte seiner Arbeit erntet und in einer Zeit des materiellen Überflusses lebt.",
+            "herausforderungen": "Eine Herausforderung des Zehn der Münzen besteht darin, den finanziellen Wohlstand zu bewahren und gleichzeitig das Gleichgewicht zwischen materiellem Besitz und spiritueller Erfüllung zu finden. Es erfordert auch die Fähigkeit, die familiären Bindungen zu pflegen und zu stärken.",
+            "positive_aspekte": "Positive Aspekte des Zehn der Münzen sind finanzielle Sicherheit, familiäre Harmonie und das Erreichen von langfristigem Erfolg. Es bietet die Möglichkeit, das Leben in vollen Zügen zu genießen und ein Gefühl der Stabilität und Erfüllung zu erleben.",
+            "negative_aspekte": "Negative Aspekte des Zehn der Münzen können Habgier, finanzielle Abhängigkeit oder das Vernachlässigen anderer Lebensbereiche sein, wenn man zu sehr auf den materiellen Wohlstand fixiert ist."
+          },
+          {
+            "name": "Page der Münzen",
+            "beschreibung": "Die Page der Münzen symbolisiert Neugier, Lernbereitschaft und den Beginn einer neuen finanziellen oder beruflichen Phase. Sie steht für eine Zeit des Lernens, der Entwicklung und der praktischen Anwendung von Fähigkeiten.",
+            "liebe": "In Beziehungen kann die Page der Münzen auf eine neue Romanze, Flirt oder das Kennenlernen einer interessanten Person hinweisen. Es symbolisiert den Beginn einer aufregenden Phase und ermutigt dazu, neugierig zu sein und neue Erfahrungen zu sammeln.",
+            "finanzen": "Im Bereich der Finanzen weist die Page der Münzen darauf hin, dass es eine Gelegenheit gibt, neue Fähigkeiten zu erlernen und finanzielles Wachstum zu erreichen. Es ermutigt dazu, finanzielle Verantwortung zu übernehmen, Wissen zu erweitern und neue Chancen zu erkunden.",
+            "gesundheit": "Die Page der Münzen kann in Bezug auf die Gesundheit bedeuten, dass es eine Zeit des Lernens und der praktischen Anwendung von gesunden Gewohnheiten gibt. Es ermutigt dazu, neue Wege zu finden, um das körperliche und geistige Wohlbefinden zu verbessern und auf die eigene Gesundheit zu achten.",
+            "spiritualität": "Die Page der Münzen kann in Bezug auf Spiritualität auf eine neue Phase des Lernens und der Entdeckung hinweisen. Es ermutigt dazu, neugierig zu sein, neue spirituelle Praktiken auszuprobieren und sich weiterzuentwickeln.",
+            "umgekehrte_bedeutung": "Wenn die Page der Münzen umgekehrt gezogen wird, kann dies darauf hinweisen, dass es Schwierigkeiten gibt, neue Fähigkeiten zu erlernen oder finanzielle Chancen zu nutzen. Es kann auf mangelndes Interesse, Unreife oder fehlende Entschlossenheit hinweisen.",
+            "numerologie": 11,
+            "element": "Erde",
+            "astrologisches_zeichen": "Jungfrau",
+            "zeitliche_bedeutung": "Die Page der Münzen symbolisiert oft den Beginn einer neuen Phase, sei es in Bezug auf Bildung, Karriere oder finanzielle Möglichkeiten. Es kann darauf hinweisen, dass man bereit ist, neue Dinge zu lernen und sich weiterzuentwickeln.",
+            "herausforderungen": "Eine Herausforderung der Page der Münzen besteht darin, sich auf das Lernen und die Entwicklung neuer Fähigkeiten zu konzentrieren, ohne sich von zu vielen Optionen ablenken zu lassen. Es erfordert auch Geduld und Ausdauer, um den langfristigen Nutzen der neuen Erfahrungen zu erkennen.",
+            "positive_aspekte": "Positive Aspekte der Page der Münzen sind Neugier, Lernbereitschaft und die Möglichkeit, neue Fähigkeiten zu entwickeln. Es bietet die Chance, finanzielles Wachstum und berufliche Entwicklung zu erleben.",
+            "negative_aspekte": "Negative Aspekte der Page der Münzen können mangelnde Ausdauer, Oberflächlichkeit sein" 
+        },
+        {
+            "name": "Ritter der Münzen",
+            "beschreibung": "Der Ritter der Münzen symbolisiert Stabilität, Ausdauer und praktisches Denken. Er steht für einen verantwortungsbewussten und zuverlässigen Ansatz bei finanziellen Angelegenheiten und beruflichen Herausforderungen.",
+            "liebe": "In Beziehungen kann der Ritter der Münzen auf einen zuverlässigen Partner hinweisen, der für Stabilität und Sicherheit steht. Er symbolisiert Engagement und Verantwortungsbewusstsein in Liebesbeziehungen und ermutigt dazu, eine solide Grundlage für die Zukunft aufzubauen.",
+            "finanzen": "Im Bereich der Finanzen weist der Ritter der Münzen darauf hin, dass es wichtig ist, geduldig und verantwortungsbewusst mit Geld umzugehen. Er symbolisiert langfristige finanzielle Stabilität und ermutigt dazu, kluge Investitionen zu tätigen und einen sparsamen Lebensstil zu pflegen.",
+            "gesundheit": "Der Ritter der Münzen kann in Bezug auf die Gesundheit bedeuten, dass es wichtig ist, auf eine gesunde und ausgewogene Lebensweise zu achten. Er symbolisiert körperliche Stärke und Ausdauer sowie die Notwendigkeit, sich um das eigene Wohlbefinden zu kümmern.",
+            "spiritualität": "Der Ritter der Münzen kann in Bezug auf Spiritualität darauf hinweisen, dass ein praktischer und bodenständiger Ansatz in der spirituellen Praxis hilfreich sein kann. Er symbolisiert die Bedeutung von Disziplin und Ausdauer bei der Weiterentwicklung des spirituellen Weges.",
+            "umgekehrte_bedeutung": "Wenn der Ritter der Münzen umgekehrt gezogen wird, kann dies darauf hinweisen, dass es Schwierigkeiten gibt, Geduld und Ausdauer aufzubringen oder sich zu sehr auf materielle Aspekte zu konzentrieren. Es kann auf finanzielle Unsicherheit oder mangelnde Flexibilität hinweisen.",
+            "numerologie": 12,
+            "element": "Erde",
+            "astrologisches_zeichen": "Stier",
+            "zeitliche_bedeutung": "Der Ritter der Münzen symbolisiert oft eine Phase der Stabilität und des Fortschritts in finanziellen oder beruflichen Angelegenheiten. Es kann darauf hinweisen, dass man auf dem richtigen Weg ist, langfristige Ziele zu erreichen.",
+            "herausforderungen": "Eine Herausforderung des Ritters der Münzen besteht darin, Flexibilität und Offenheit für Veränderungen zu bewahren, während man gleichzeitig auf Stabilität und Sicherheit bedacht ist. Es erfordert auch die Fähigkeit, finanzielle Risiken einzugehen und neue Chancen zu erkennen.",
+            "positive_aspekte": "Positive Aspekte des Ritters der Münzen sind Stabilität, Ausdauer und ein verantwortungsbewusster Umgang mit finanziellen und beruflichen Angelegenheiten. Er bietet die Möglichkeit, langfristige Erfolge zu erzielen und eine solide Grundlage für die Zukunft aufzubauen.",
+            "negative_aspekte": "Negative Aspekte des Ritters der Münzen können Sturheit, mangelnde Flexibilität oder eine übermäßige Fixierung auf materiellen Besitz sein. Es ist wichtig, einen ausgewogenen Ansatz zu wahren und auch andere Lebensbereiche zu berücksichtigen."
+          },
+          {
+            "name": "König der Münzen",
+            "beschreibung": "Der König der Münzen symbolisiert Stabilität, Reichtum und Erfolg. Er verkörpert einen verantwortungsbewussten und weisen Führungsstil in finanziellen Angelegenheiten und beruflichen Herausforderungen.",
+            "liebe": "In Beziehungen repräsentiert der König der Münzen einen zuverlässigen und wohlhabenden Partner. Er symbolisiert Sicherheit, Stabilität und den Wunsch nach langfristiger Bindung. Es kann darauf hinweisen, dass es eine starke Basis für eine gesunde und wohlhabende Beziehung gibt.",
+            "finanzen": "Im Bereich der Finanzen symbolisiert der König der Münzen finanzielle Sicherheit und Erfolg. Er ermutigt dazu, kluge Investitionen zu tätigen, finanzielle Ziele zu setzen und langfristig zu planen. Es ist ein Zeichen für Wohlstand und finanzielle Unabhängigkeit.",
+            "gesundheit": "Der König der Münzen kann in Bezug auf die Gesundheit auf körperliche Stabilität und Widerstandsfähigkeit hinweisen. Er symbolisiert Gesundheit, Wohlbefinden und die Bedeutung eines ausgewogenen und gesunden Lebensstils.",
+            "spiritualität": "Der König der Münzen kann in Bezug auf Spiritualität eine bodenständige und praktische Herangehensweise symbolisieren. Er ermutigt dazu, finanzielle Stabilität und spirituelles Wachstum in Einklang zu bringen. Es kann bedeuten, dass materieller Reichtum als Werkzeug für spirituelles Wachstum genutzt werden kann.",
+            "umgekehrte_bedeutung": "Wenn der König der Münzen umgekehrt gezogen wird, kann dies auf eine übermäßige Betonung von materiellen Besitztümern oder finanziellen Interessen hinweisen. Es kann auch auf finanzielle Instabilität, Verschwendung oder mangelnde Verantwortung hindeuten.",
+            "numerologie": 14,
+            "element": "Erde",
+            "astrologisches_zeichen": "Steinbock",
+            "zeitliche_bedeutung": "Der König der Münzen symbolisiert oft eine Phase des Erfolgs und des Wohlstands in finanziellen oder beruflichen Angelegenheiten. Es kann darauf hinweisen, dass man die Früchte der eigenen Arbeit erntet und auf einem soliden Fundament steht.",
+            "herausforderungen": "Eine Herausforderung des Königs der Münzen besteht darin, die Balance zwischen finanzieller Sicherheit und anderen Lebensbereichen zu finden. Es erfordert auch die Fähigkeit, finanziellen Erfolg mit Großzügigkeit und Verantwortungsbewusstsein zu nutzen.",
+            "positive_aspekte": "Positive Aspekte des Königs der Münzen sind finanzielle Stabilität, Erfolg und Weisheit im Umgang mit Geld. Er bietet die Möglichkeit, finanzielle Ziele zu erreichen und eine Führungsrolle in finanziellen Angelegenheiten einzunehmen.",
+            "negative_aspekte": "Negative Aspekte des Königs der Münzen können Geiz, Kontrollsucht oder eine übermäßige Betonung von materiellen Werten sein. Es ist wichtig, auch andere Aspekte des Lebens zu pflegen und nicht alles auf den finanziellen Erfolg zu reduzieren."
+          },
+          {
+            "name": "Königin der Münzen",
+            "beschreibung": "Die Königin der Münzen verkörpert Reichtum, Fülle und materielle Sicherheit. Sie ist eine praktische und bodenständige Frau, die klug mit Finanzen umgeht und eine starke Verbindung zur Natur und zur materiellen Welt hat.",
+            "liebe": "In Beziehungen repräsentiert die Königin der Münzen eine liebevolle und fürsorgliche Partnerin. Sie ist stabil, zuverlässig und großzügig. Es kann darauf hinweisen, dass eine Beziehung auf soliden Grundlagen steht und ein Gefühl von Sicherheit und Wohlstand bringt.",
+            "finanzen": "Im Bereich der Finanzen symbolisiert die Königin der Münzen finanzielle Sicherheit und Erfolg. Sie ermutigt dazu, klug zu investieren, Ressourcen effizient zu nutzen und langfristig zu planen. Es ist ein Zeichen für Wohlstand und finanzielle Unabhängigkeit.",
+            "gesundheit": "Die Königin der Münzen kann in Bezug auf die Gesundheit auf körperliche Stabilität und Widerstandsfähigkeit hinweisen. Sie symbolisiert Gesundheit, Wohlbefinden und die Bedeutung eines ausgewogenen und gesunden Lebensstils.",
+            "spiritualität": "Die Königin der Münzen kann in Bezug auf Spiritualität eine Verbindung zwischen materieller Fülle und spirituellem Wachstum herstellen. Sie ermutigt dazu, die materielle Welt und die Natur als spirituelle Quellen der Fülle zu erkennen und zu schätzen.",
+            "umgekehrte_bedeutung": "Wenn die Königin der Münzen umgekehrt gezogen wird, kann dies auf eine übermäßige Betonung von materiellen Besitztümern oder finanziellen Interessen hinweisen. Es kann auch auf finanzielle Instabilität, Geiz oder Vernachlässigung der eigenen Bedürfnisse hindeuten.",
+            "numerologie": 13,
+            "element": "Erde",
+            "astrologisches_zeichen": "Stier",
+            "zeitliche_bedeutung": "Die Königin der Münzen symbolisiert oft eine Phase des Wohlstands und des Erfolgs in finanziellen Angelegenheiten. Es kann bedeuten, dass man die Früchte der eigenen Arbeit erntet und auf einem soliden Fundament steht.",
+            "herausforderungen": "Eine Herausforderung der Königin der Münzen besteht darin, die Balance zwischen finanzieller Sicherheit und anderen Lebensbereichen zu finden. Es erfordert auch die Fähigkeit, finanziellen Erfolg mit Großzügigkeit und Verantwortungsbewusstsein zu nutzen.",
+            "positive_aspekte": "Positive Aspekte der Königin der Münzen sind finanzielle Stabilität, Erfolg und Weisheit im Umgang mit Geld. Sie bietet die Möglichkeit, finanzielle Ziele zu erreichen und eine Führungsrolle in finanziellen Angelegenheiten einzunehmen.",
+            "negative_aspekte": "Negative Aspekte der Königin der Münzen können Geiz, Kontrollsucht oder eine übermäßige Betonung von materiellen Werten sein. Es ist wichtig, auch andere Aspekte des Lebens zu pflegen und nicht alles auf den finanziellen Erfolg zu reduzieren."
           }
+          
+
+          
+          
+          
+
+          
+          
+          
+          
           
           
           
