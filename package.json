@@ -1,0 +1,26 @@
+{
+  "name": "tarot-interpreter",
+  "version": "1.0.0",
+  "description": "Ein kleiner Helfer für das Interpretieren von Tarot Karten",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "backend": "json-server --watch backend/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apophisa666/tarot-interpreter.git"
+  },
+  "keywords": [
+    "tarot"
+  ],
+  "author": "Dagmar Fischer <apophisa666@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apophisa666/tarot-interpreter/issues"
+  },
+  "homepage": "https://github.com/apophisa666/tarot-interpreter#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
