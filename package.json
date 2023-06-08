@@ -4,7 +4,10 @@
   "description": "Ein kleiner Helfer für das Interpretieren von Tarot Karten",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server --mode=development --hot",
+    "build": "webpack --mode=production",
     "test": "test",
+    "test:watch": "jest -t --watch",
     "backend": "json-server --watch backend/db.json"
   },
   "repository": {
@@ -21,6 +24,17 @@
   },
   "homepage": "https://github.com/apophisa666/tarot-interpreter#readme",
   "dependencies": {
-    "json-server": "^0.17.3"
+    "css-loader": "^6.8.1",
+    "handlebars-loader": "^1.7.3",
+    "html-webpack-plugin": "^5.5.1",
+    "json-server": "^0.17.3",
+    "mini-css-extract-plugin": "^2.7.6",
+    "sass-loader": "^13.3.1",
+    "webpack": "^5.86.0",
+    "webpack-dev-server": "^4.15.0"
+  },
+  "devDependencies": {
+    "sass": "^1.63.2",
+    "webpack-cli": "^5.1.4"
   }
 }
