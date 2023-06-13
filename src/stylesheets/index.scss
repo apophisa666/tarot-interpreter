@@ -1,0 +1,30 @@
+
+@import 'colors';
+* {
+    font-family: 'Raleway', sans-serif;
+}
+html, body {
+    background-color: $white;
+    margin:0;
+}
+
+nav {
+    background-color: $dark;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+
+    p, a {
+        padding:4px;
+        color: $white;
+        text-decoration: none;
+
+        &:hover {
+            color: $yellow;
+        }
+    }
+}
+
+section {
+    padding:10px;
+}

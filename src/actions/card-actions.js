@@ -27,7 +27,6 @@ import {
     }
   };
   
-  export const fetchCards = () => {
-    return asyncAction(fetch('http://localhost:3000/karten'), FETCH_CARDS);
-  }
+  export const fetchCards = () =>  asyncAction(fetch('http://localhost:3000/karten'), FETCH_CARDS);
+  
 

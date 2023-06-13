@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/apophisa666/tarot-interpreter#readme",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
     "css-loader": "^6.8.1",
     "handlebars-loader": "^1.7.3",
     "html-webpack-plugin": "^5.5.1",

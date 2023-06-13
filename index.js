@@ -1,10 +1,10 @@
-import Card from "./src/components/card";
+import Interpreter from "./src/components/interpreter";
 import CardSelector from "./src/components/card-selector";
 
 import './src/stylesheets/index.scss';
 
-if (!customElements.get('ti-card')) {
-    customElements.define('ti-card', Card);
+if (!customElements.get('ti-interpreter')) {
+    customElements.define('ti-interpreter', Interpreter);
 }
 
 if (!customElements.get('ti-card-selector')) {

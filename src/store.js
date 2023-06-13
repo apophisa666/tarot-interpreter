@@ -1,6 +1,6 @@
-import { createStore, applyMiddleware } from 'redux';
-import thunk from 'redux-thunk';
-import logger from 'redux-logger';
+import { configureStore } from '@reduxjs/toolkit';
 import cardReducer from './reducers/card-reducer';
 
-export default createStore(cardReducer, applyMiddleware(thunk, logger));
+export default configureStore({
+  reducer: cardReducer
+});
